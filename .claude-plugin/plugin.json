@@ -1,0 +1,10 @@
+{
+  "name": "sre",
+  "description": "Site reliability — production readiness, chaos engineering, capacity planning, incident management",
+  "version": "1.0.0",
+  "author": {
+    "name": "nagisanzenin"
+  },
+  "license": "MIT",
+  "keywords": ["sre", "reliability", "chaos-engineering", "capacity-planning", "incident-management", "observability"]
+}
